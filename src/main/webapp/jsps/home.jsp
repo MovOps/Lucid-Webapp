@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
-	Landmark Technology Tesla web application project2. 
+<h1 align="center">Zoolch Innivative Systems LLC - Leaders in Software Delivery and DevOps Automation</h1>
+<h2 align="center"> Welcome to Zoolch.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
+	Zoolch Lucid web application project2. 
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
 <hr>
@@ -20,12 +20,12 @@
 		<img src="images/logo.png" alt="" width="250">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Zoolch Inovative Systems LLC, 
+		Atlanta, Georgia
+		+1 678 360 0524,
+		info@zoolch.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:info@zoolch.com">Mail to Zoolch</a>
 	</span>
 </div>
 <hr>
@@ -33,7 +33,7 @@
 <hr>
 <hr>
 <p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://zoolch.com/">Zoolch Innovative Systems LLC</a> </small></p>
 
 </body>
 </html>
