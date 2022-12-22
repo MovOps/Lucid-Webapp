@@ -20,7 +20,7 @@
 		<img src="images/logo.png" alt="" width="250">
 	</span>
 	<span style="font-weight: bold;">
-		Zoolch Inovative Systems LLC, 
+		Zoolch Innovative Systems LLC, 
 		Atlanta, Georgia
 		+1 678 360 0524,
 		info@zoolch.com
