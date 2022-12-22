@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Zoolch Innovative Systems LLC - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Zoolch.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
+<h1 align="center">Zoolch - We are leaders in Software Delivery and DevOps Automation</h1>
+<h2 align="center"> Welcome to Zoolch Web Application Project 30.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
 	Zoolch Lucid web application project2. 
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
