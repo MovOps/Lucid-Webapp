@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.6.7:8081/repository/lucid-webapp-releases</url> 
+	      <url>http://3.128.202.36:8081/repository/lucid-webapp-releases</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://172.31.6.7:8081/repository/lucid-webapp-snapshot</url>
+	      <url>http://3.128.202.36:8081/repository/lucid-webapp-snapshot</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
