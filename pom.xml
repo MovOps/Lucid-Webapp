@@ -94,13 +94,13 @@
 	<distributionManagement>
 		
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexus1</id>
 	      <name>polestar-webapp-releases</name>
 	      <url>http://3.128.202.36:8081/repository/polestar-webapp-releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexus1</id>
 	      <name>polestar-webapp-snapshot</name>
 	      <url>http://3.128.202.36:8081/repository/polestar-webapp-snapshot/</url>
 	    </snapshotRepository>
