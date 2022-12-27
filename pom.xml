@@ -95,14 +95,14 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>lucid-webapp-releases</name>
-	      <url>http://3.128.202.36:8081/repository/lucid-webapp-releases</url> 
+	      <name>polestar-webapp-releases</name>
+	      <url>http://3.128.202.36:8081/repository/polestar-webapp-releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>lucid-webapp-snapshot</name>
-	      <url>http://3.128.202.36:8081/repository/lucid-webapp-snapshot</url>
+	      <name>polestar-webapp-snapshot</name>
+	      <url>http://3.128.202.36:8081/repository/polestar-webapp-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
