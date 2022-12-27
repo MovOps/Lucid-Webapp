@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>lucid</finalName>
+		<finalName>polestar</finalName>
 		
 		<plugins>
 			<plugin>
