@@ -94,20 +94,20 @@
 	<distributionManagement>
 		
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexus1</id>
 	      <name>lucid-webapp-releases</name>
 	      <url>http://3.128.202.36:8081/repository/lucid-webapp-releases</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexus1</id>
 	      <name>lucid-webapp-releases</name>
 	      <url>http://3.128.202.36:8081/repository/lucid-webapp-snapshot</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
 	<build>
-		<finalName>polestar</finalName>
+		<finalName>lucid</finalName>
 		
 		<plugins>
 			<plugin>
